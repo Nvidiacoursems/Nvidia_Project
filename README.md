@@ -60,7 +60,7 @@ will need folders in both data and models:
  
  - if they are in the Hotairballoon folder (Hotair01) if you have 2 images then the second one should be 02 and so on.
  
-*Running the program
+#Running the program
 
 - done
 
