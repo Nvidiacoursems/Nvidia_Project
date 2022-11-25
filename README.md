@@ -2,9 +2,9 @@
 
 #Purpose
 
-This project was made to detect air vehicles. It was made for military use.
+This project was made to detect air vehicles. It was made for military use. The AI detects the image of the vehicle then would give out 2 different outputs depending on the two conditions shown below: 
 
--First the Ai would detect the vehicle if it is a threat it would warn the military that a harmfull vehicle has entered the premises and would react if given permission. 
+-First if the vehicle is a threat it would warn the military that a harmfull vehicle has entered the premises and would react if given permission. 
 
 -Second if the vehicle is not a threat it would inform the military that a harmless vehicle has entered the countries premises.
 
