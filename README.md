@@ -42,3 +42,7 @@ will need folders in both data and models:
 
 - not write - cd models - and write - mkdir Hotairballoon_Jet - and then - cd .. - then you should be all set.  
 
+#Running the project 
+
+- .
+
