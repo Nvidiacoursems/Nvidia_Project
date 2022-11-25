@@ -46,9 +46,9 @@ will need folders in both data and models:
 
 *Placing the files
 
-- From https://github.com/Nvidiacoursems/Nvidia_Project open models/Hotairballoon_Jet and download each file by opening them and clicking the download button
+- From https://github.com/Nvidiacoursems/Nvidia_Project open models/Hotairballoon_Jet and download the resnet18.onnx file by opening it and clicking the download button (the rest are optional)
 
-- Once they are downloaded take the files from there dowloaded location in file explorer and select them, drag and drop them into the Hotairballoon_Jet you created in the models folder
+- Once it is downloaded take the file from its dowloaded location in file explorer and select it, drag and drop it into the Hotairballoon_Jet you created in the models folder
 
 - Next we will need images for the AI to run
 
@@ -62,5 +62,21 @@ will need folders in both data and models:
  
 #Running the program
 
-- done
+*to run the promgram execute the following code
+
+- the first two lines of code must be done only once after opening VS code if you close it or your computer you must re run them for the code to work
+
+ NET=models/Hotairballoon_jet
+ 
+ DATASET=data/Hotairballoon_Jet
+ 
+ imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/Input/(Jet or Hatairballoon it depends on the image you want)/(Name of image in folder e.g Hotair01 or Jet02).jpg data/Hotairballoon_Jet/Output/(here you put the name of the output file e.g if your using jet image 1 (Jet01) write Jet01output same with the Hotairballoon).
+ 
+*Note you must be in the classification folder in your terminal if your not type - cd - then type - cd jetson-inference/python/training/classification -
+
+Thank You :) !
+
+Here is a video demonstration
+
+ 
 
