@@ -44,5 +44,5 @@ will need folders in both data and models:
 
 #Running the project 
 
-- .
+.
 
