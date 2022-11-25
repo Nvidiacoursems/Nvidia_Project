@@ -36,4 +36,9 @@ will need folders in both data and models:
 
 *Second method
 
+- in your terminal write - cd jetson-inference/python/training/classification - without the -'s in the begining or end
+
+- for data write - cd data - , then write - mkdir _name_ (for this project I recomend using Hotairballoon_Jet) then cd into it (by writing - cd Hotairballoon_Jet -) then write - mkdir input - and - mkdir output - then cd out twice but wiring cd .. 2 times after eachother
+
+- not write - cd models - and write - mkdir Hotairballoon_Jet - and then - cd .. - then you should be all set.  
 
