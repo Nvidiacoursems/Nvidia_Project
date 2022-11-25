@@ -38,7 +38,7 @@ will need folders in both data and models:
 
 *Second method
 
-- in your terminal write - cd jetson-inference/python/training/classification - without the -'s in the begining or end
+- in your terminal write - cd jetson-inference/python/training/classification - without the - (Dash) in the begining or end
 
 - for data write - cd data - , then write - mkdir _name_ (for this project I recomend using Hotairballoon_Jet) then cd into it (by writing - cd Hotairballoon_Jet -) then write - mkdir input - and - mkdir output -  then make 2 more folders in Output (- cd Output -) (- mkdir name -) but name one - Hotairballoon- and one -Jet- then cd out three times by wirting cd .. 3 times after eachother
 
@@ -64,7 +64,7 @@ will need folders in both data and models:
 
 *to run the promgram execute the following code
 
-- the first two lines of code must be done only once after opening VS code if you close it or your computer you must re run them for the code to work
+- the first two lines of code must be done only once after opening VS code if you close VS Code or your computer is turned of you must rerun them for the code to work else the program will fail
 
  NET=models/Hotairballoon_jet
  
