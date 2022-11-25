@@ -17,6 +17,6 @@ The AI has been given many images and has been trained to recognize Hot air ball
 #Setting Up the AI
 
 First (In VS code) you will need to set up the Jetson-inference
--https://student.idtech.com/courses/184/pages/build-the-project-from-source?module_item_id=20688
+ https://student.idtech.com/courses/184/pages/build-the-project-from-source?module_item_id=20688
 
 
