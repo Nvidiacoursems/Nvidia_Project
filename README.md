@@ -40,7 +40,7 @@ You can do the in Two different methods.
 
 - in your terminal write - cd jetson-inference/python/training/classification - without the - (Dash) in the begining or end
 
-- for data write - cd data - , then write - mkdir _name_ (for this project I recomend using Hotairballoon_Jet) then cd into it (by writing - cd Hotairballoon_Jet -) then write - mkdir input - and - mkdir output -  then make 2 more folders in Output (- cd Output -) (- mkdir name -) but name one - Hotairballoon- and one -Jet- then cd out three times by wirting cd .. 3 times after eachother
+- for data write - cd data - , then write - mkdir _name_ (for this project I recomend using Hotairballoon_Jet) then cd into it (by writing - cd Hotairballoon_Jet -) then write - mkdir input - and - mkdir output -  then make 2 more folders in Output (- cd Output -) (- mkdir name -) but name one - Hotairballoon - and one - Jet - then cd out three times by wirting cd .. 3 times after eachother
 
 - next write - cd models - and write - mkdir Hotairballoon_Jet - and then - cd .. - then you should be all set.  
 
