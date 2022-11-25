@@ -64,7 +64,7 @@ You can do the in Two different methods.
 
 *to run the promgram execute the following code
 
-- the first two lines of code must be done only once after opening VS code if you close VS Code or your computer is turned of you must rerun them for the code to work else the program will fail
+- the first two lines of code must be done only once after opening VS code if you close VS Code or your computer is turned off you must rerun them for the code to work else the program will fail
 
  NET=models/Hotairballoon_jet
  
@@ -72,13 +72,13 @@ You can do the in Two different methods.
  
  imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/Input/(Jet or Hatairballoon it depends on the image you want)/(Name of image in folder e.g Hotair01 or Jet02).jpg data/Hotairballoon_Jet/Output/(here you put the name of the output file e.g if your using jet image 1 (Jet01) write Jet01out same with the Hotairballoon).
  
-*Note you must be in the classification folder in your terminal if your not type - cd - then type - cd jetson-inference/python/training/classification -
-
-Thank You :) !
+*Note you must be in the classification folder in your terminal if your not type - cd - then type
+- cd jetson-inference/python/training/classification -
 
 *Note class #0 is Hotairballoon and class #1 is Jet
 
 Here is a video demonstration: https://youtu.be/t2cUNABMvdY
 
+Thank you :) ,I hope you injoy! GoodBye!!
  
 
