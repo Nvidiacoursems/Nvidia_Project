@@ -28,7 +28,7 @@ You can do the in Two different methods.
 
  We will need folders in both data and models:
 
-- To start Right data then click - New Folder - Rename it whatever you want (But for this project name it Hotairballoon_Jet with all capitals included as we use it in the code to run the program).
+- To start Right click on data then click - New Folder - Rename it whatever you want (But for this project name it Hotairballoon_Jet with all capitals included as we use it in the code to run the program).
 
 - inside your folder you will need 2 ore folders Input - Output
 
