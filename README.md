@@ -52,7 +52,7 @@ will need folders in both data and models:
 
 - Next we will need images for the AI to run
 
-- in google search hot air balloon and download images (Do the same for the Jet) (be sure they are .png files) then move the images to there coresponding folders in data/Hotairballoon_Jet/Input (Jet/Hotairballoon)
+- in google search hot air balloon and download images (Do the same for the Jet(search fighter jet)) (be sure they are .png files) then move the images to there coresponding folders in data/Hotairballoon_Jet/Input (Jet/Hotairballoon)
 
 - Rename them:
  
