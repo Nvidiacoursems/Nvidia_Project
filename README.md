@@ -10,7 +10,7 @@ This project was made to detect air vehicles. It was made for military use. The 
 
 #How it works
 
-The AI would be given an image of any air vehicle (For now the AI has been trained to recognize 2 vehicles Harmless: (Hot air ballon), Harmfull: (Fighter Jet)), then it would categorize it in to its respective folder.
+The AI would be given an image of any air vehicle (For now the AI has been trained to recognize 2 vehicles Harmless: (Hot air ballon), Harmfull: (Fighter Jet)), then it would categorize it in to their respective folder.
 
 The AI has been given many images and has been trained to recognize Hot air balloons and Jets
 
