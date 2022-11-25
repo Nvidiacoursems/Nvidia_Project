@@ -76,7 +76,9 @@ will need folders in both data and models:
 
 Thank You :) !
 
-Here is a video demonstration
+*Note class #0 is Hotairballoon and class #1 is Jet
+
+Here is a video demonstration: https://youtu.be/t2cUNABMvdY
 
  
 
