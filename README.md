@@ -56,9 +56,9 @@ will need folders in both data and models:
 
 - Rename them:
  
- - if they are in the Jet folder (Jet01) 01 if you have 2 images then the second one should be 02 and so on.
+ - if they are in the Jet folder (Jet01) if you have 2 images then the second one should be 02 and so on.
  
- - if they are in the Hotairballoon folder (Hotair01) 01 if you have 2 images then the second one should be 02 and so on.
+ - if they are in the Hotairballoon folder (Hotair01) if you have 2 images then the second one should be 02 and so on.
  
 *Running the program
 
