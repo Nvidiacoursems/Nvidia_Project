@@ -26,7 +26,7 @@ You can do the in Two different methods.
 
 *First method: to the left of your screen where all the folders (in VS code) are located, left click on jetson-inference, then on python, then training, then classification. 
 
-will need folders in both data and models:
+ We will need folders in both data and models:
 
 - To start Right data then click - New Folder - Rename it whatever you want (But for this project name it Hotairballoon_Jet with all capitals included as we use it in the code to run the program).
 
