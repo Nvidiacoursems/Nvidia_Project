@@ -75,7 +75,7 @@ You can do the in Two different methods.
 *Note you must be in the classification folder in your terminal if your not type - cd - then type
 - cd jetson-inference/python/training/classification -
 
-*Note class #0 is Hotairballoon and class #1 is Jet
+*Note class #0 means it is a Hotairballoon and class #1 means it is a Jet
 
 Here is a video demonstration: https://youtu.be/t2cUNABMvdY
 
